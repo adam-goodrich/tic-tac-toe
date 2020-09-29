@@ -1,0 +1,103 @@
+body {
+    display: block;
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: 'Secular One', sans-serif;
+    color: #381801;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    font-size: 5em;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+button {
+    width: 16em;
+    border-radius: 12px;
+    padding: 15px;
+    background-color: rgb(59, 180, 75);
+    color: aliceblue;
+    font-size: 18px;
+}
+
+.result {
+    padding-top: .5em;
+    font-size: 2em;
+}
+
+.container {
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    align-items: center;
+    padding-top: .5em;
+}
+
+.grid-item {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-size: 150px;
+    vertical-align: middle;
+    line-height: 150px;
+    cursor: pointer;
+    margin: auto;
+}
+
+#one {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-width: 10px;
+    border-color: #381801;
+
+}
+
+#two {
+    border-bottom: 1px solid black;
+    border-width: 10px;
+    border-color: #381801;
+
+}
+
+#three {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-width: 10px;
+    border-color: #381801;
+
+
+}
+
+#four {
+    border-right: 1px solid black;
+    border-width: 10px;
+    border-color: #381801;
+}
+
+#six {
+    border-left: 1px solid black;
+    border-width: 10px;
+    border-color: #381801;
+}
+
+#seven {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-width: 10px;
+    border-color: #381801;
+}
+
+#eight {
+    border-top: 1px solid black;
+    border-width: 10px;
+    border-color: #381801;
+}
+
+#nine {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-width: 10px;
+    border-color: #381801;
+}

@@ -1,2 +1,2 @@
 # tic-tac-toe
-Web App Tic-Tac=Toe Game
+Web App Tic-Tac-Toe Game
